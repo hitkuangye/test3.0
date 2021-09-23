@@ -4,6 +4,8 @@
 
     //% color=50 weight=80
     //% icon="\uf1eb"
+declare namespace i2c {
+}
 
 declare namespace Bit_IR {
 }
