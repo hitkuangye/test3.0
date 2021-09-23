@@ -9,7 +9,9 @@
     },
     "files": [
         "README.md",
+        "huskylens.ts",
         "main.ts",
+        "i2c.cpp",
         "shims.d.ts",
         "enums.d.ts"
     ],
