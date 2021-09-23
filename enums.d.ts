@@ -1,4 +1,6 @@
 // Auto-generated. Do not edit.
+declare namespace i2c {
+}
 
 declare const enum Pins {
     P0 = 3,
