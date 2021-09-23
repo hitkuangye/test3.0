@@ -13,12 +13,7 @@
         "i2c.cpp",
         "shims.d.ts",
         "enums.d.ts",
-        "main.ts",
-        "BitIR.ts",
-        "ReceiverIR.cpp",
-        "ReceiverIR.h",
-        "RemoteIR.h",
-        "Bit_IR.cpp"
+        "main.ts"
     ],
     "testFiles": [
 
